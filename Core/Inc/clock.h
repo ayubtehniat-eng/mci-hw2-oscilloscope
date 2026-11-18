@@ -1,0 +1,1 @@
+void Clock_Init48MHz(void);

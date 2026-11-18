@@ -1,0 +1,6 @@
+build/
+__pycache__/
+.DS_Store
+Claude outputs/
+scope_2026*.png
+scope_2026*.csv
